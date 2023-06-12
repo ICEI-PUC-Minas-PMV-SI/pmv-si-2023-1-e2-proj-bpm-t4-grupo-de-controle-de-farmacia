@@ -1,4 +1,4 @@
-# Nome do projeto
+# Controle de Farmácia
 
 Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
