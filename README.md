@@ -19,6 +19,7 @@ Na proposta, todos os componentes dos processos de negócios são considerados, 
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Acessar o link: https://pucminas-partner.sydle.one/#/
 
 ## Histórico de versões
 
