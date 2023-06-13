@@ -147,8 +147,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 ### 4.2. Tecnologias
 
-Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas. Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
-Será desenvolvida uma aplicação web, diante disso, é necessário definir linguagens de marcação, estilização, de programação e um sistema de gerenciamento de banco de dados para suprir toda essa aplicação do CIT. Como linguagem de marcação de hipertexto foi escolhido o HTML5 para construção estrutural do site, para estilização utilizaremos CSS3, com auxílio do framework Bootstrap. Para programação será utilizado JavaScript no frontend e backend (Por meio do interpretador NodeJS, juntamente com o framework Nuxt.js para conectar o backend com o frontend.), e o SGBD selecionado foi o MariaDB por ser relacional e gratuito. A IDE de desenvolvimento escolhida foi o Visual Studio Code. Nuvem de hospedagem para a aplicação foi escolhida a Azure, para hospedar uma máquina virtual utilizando o SO Ubuntu.
+O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi realizado o mapeamento de processos e a automação.
 
 ## 5. Modelo de dados
 
@@ -172,7 +171,7 @@ Usar o seguinte modelo:
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
 
-## 7.Sistema desenvolvido
+## 7. Sistema desenvolvido
 
 Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
 
@@ -190,6 +189,8 @@ http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
 
 
 **[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+
+**[1.2]** - _NIELD, Thomas. **Getting Started with SQL**. A Hands-on Approach forBeginners. Sebastopol: O’Reilly, 2016. Capítulos 1 e 2. LivroEletrônico._
 
 **[1.2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
 
