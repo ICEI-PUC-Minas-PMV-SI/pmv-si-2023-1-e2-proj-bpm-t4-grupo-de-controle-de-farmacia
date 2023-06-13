@@ -1,33 +1,33 @@
-# TITULO DO PROJETO
+# CONTROLE DE FARMÁCIA
 
 
-**Nome completo do Aluno 1, email do aluno 1**
+**Julio dos Reis Firmino, jrfirmino@sga.pucminas.br**
 
-**Nome completo do Aluno 2, email do aluno 2**
+**Eduardo Henrique Morais Costa, eduardo.costa.1187487@sga.pucminas.br**
 
-**Nome completo do Aluno 3, email do aluno 3**
+**Hudson Suvalsky Vieira, hudson.suvalsky@sga.pucminas.br**
+
+**Carlos Gabriel Campos Gaspar, carlos.gaspar.1429414@sga.pucminas.br**
+
+**Jeziel Suzana Pires da Silva, jeziel.pires@sga.pucminas.br**
+
 
 ---
 
 Professores:
 
-**Hugo Bastos de Paula**
-
-**Eveline Alonso Veloso**
-
-**Thiago Augusto Nicolini Silva**
-
+**Juliana Amaral de Carvalho**
 
 ---
 
-_Curso de Engenharia de Software, Unidade Praça da Liberdade_
+_Curso de Sistemas de Informação_
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
 ---
 
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
+_**Resumo**. Este estudo busca desenvolver uma modelagem primária do processo de negócio farmacêutico, considerando a notável presença desse setor na sociedade. O objetivo é desenhar um fluxo eficiente e funcional, aplicando as regras de negócio ao contexto, embora sem se aprofundar nas peculiaridades de cada empresa, dada a sua diversidade.
+Na proposta, todos os componentes dos processos de negócios são considerados, direcionando os recursos organizacionais para objetivos predefinidos. O cliente é o participante chave e a modelagem do processo é centrada em suas necessidades. Para a estruturação deste processo de negócio, a ferramenta SydleOne foi utilizada, permitindo uma modelagem eficiente e flexível._
 
 ---
 
@@ -38,9 +38,10 @@ A introdução deve apresentar de dois ou quatro parágrafos de contextualizaç�
 
     1.1 Contextualização
 
-Na **contextualização**, o aluno deve dizer do que se trata o trabalho, em que área ou contexto se insere. 
-A **contextualização** deve ser desenvolvida de algo mais genérico para algo mais específico. 
-A citação de pesquisas quantitativas é bem aceita aqui (corretamente referenciadas).
+
+Este trabalho tem por finalidade realizar a modelagem primária do processo de negócio de uma farmácia. Todo o estudo desenvolvido referente ao processo de negócio de uma farmácia foi trabalhado com foco no contexto desse tipo de negócio que está presente no cotidiano dos usuários. 
+    O objetivo é criar uma proposta de solução que viabiliza um fluxo de processos capaz de garantir eficiência e funcionalidade de uma empresa farmacêutica. A proposta irá entender e aplicar, dentro do contexto de modelagem de processos de negócios, as diversas regras de que envolvem esse tipo de atividade, ou seja, todo o fluxo será mapeado levando em consideração o início e o fim de todos os passos que deverão ser claramente mapeados.  
+    O trabalho se torna relevante quando consideramos os dados mais atualizados do Conselho Federal de Farmácia do Brasil (2021). A instituição relata que, em 2020 existiam 89.879 Farmácias e drogarias comerciais no Brasil. Além das 8.506 farmácias de manipulação, 6.771 farmácias hospitalares e 6.771 farmácias públicas. Todas as farmácias possuem processos que podem ser melhorados e agilizados, vide o propósito do trabalho. 
 
     1.2 Problema
 
