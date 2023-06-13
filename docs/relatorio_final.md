@@ -148,12 +148,15 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 ### 4.2. Tecnologias
 
 Descreva qual(is) tecnologias você vai usar para resolver o seu problema, ou seja implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas. Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Será desenvolvida uma aplicação web, diante disso, é necessário definir linguagens de marcação, estilização, de programação e um sistema de gerenciamento de banco de dados para suprir toda essa aplicação do CIT. Como linguagem de marcação de hipertexto foi escolhido o HTML5 para construção estrutural do site, para estilização utilizaremos CSS3, com auxílio do framework Bootstrap. Para programação será utilizado JavaScript no frontend e backend (Por meio do interpretador NodeJS, juntamente com o framework Nuxt.js para conectar o backend com o frontend.), e o SGBD selecionado foi o MariaDB por ser relacional e gratuito. A IDE de desenvolvimento escolhida foi o Visual Studio Code. Nuvem de hospedagem para a aplicação foi escolhida a Azure, para hospedar uma máquina virtual utilizando o SO Ubuntu.
 
 ## 5. Modelo de dados
 
 Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos conceitos e atributos apresentados item anterior. 
 
 ![Diagrama de Entidade Relacionamento de Exemplo](imagens/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
+
+![]("C:\Users\Julio\Downloads\der_puc.pdf")
 
 ## 6. Indicadores de desempenho
 
