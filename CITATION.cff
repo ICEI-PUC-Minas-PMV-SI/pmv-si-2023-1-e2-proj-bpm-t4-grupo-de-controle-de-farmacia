@@ -1,34 +1,25 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
+  - family-names: Reis Firmino
+    given-names: Julio 
+  - family-names: Henrique Morais Costa
+    given-names: Eduardo 
+  - family-names: Suvalsky Vieira
+    given-names: Hudson 
+  - family-names: Suzana Pires da Silva
+    given-names: Jeziel 
+  - family-names: Campos Gaspar
+    given-names: Carlos Gabriel
     
   - name-suffix: Professor
     affiliation: PUC Minas
-    family-names: De Paula
-    given-names: Hugo Bastos
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Veloso
-    given-names: Eveline Alonso
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Silva
-    given-names: Thiago Augusto Nicolini 
+    family-names: Amaral Baroni de Carvalho
+    given-names: Juliana  
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Controle de Farmácia"  
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
@@ -36,6 +27,7 @@ repository-code: "https://github.com/url do projeto"
 title: "Título do projeto"
 abstract: |
     "
-    Breve descrição do projeto
+    Este estudo busca desenvolver uma modelagem primária do processo de negócio farmacêutico, considerando a notável presença desse setor na sociedade. O objetivo é desenhar um fluxo eficiente e funcional, aplicando as regras de negócio ao contexto, embora sem se aprofundar nas peculiaridades de cada empresa, dada a sua diversidade. 
+Na proposta, todos os componentes dos processos de negócios são considerados, direcionando os recursos organizacionais para objetivos predefinidos. O cliente é o participante chave e a modelagem do processo é centrada em suas necessidades. Para a estruturação deste processo de negócio, a ferramenta SydleOne foi utilizada, permitindo uma modelagem eficiente e flexível. 
     "
 ...
