@@ -175,7 +175,10 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 ## 5. Modelo de dados
 
-Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos conceitos e atributos apresentados item anterior. 
+Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Entidade-Relacionamento (DER) que contemple todos conceitos e atributos apresentados item anterior.
+
+
+![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/der_puc.png "Modelo de Entidade Relacionamento")
 
 ![Diagrama de Entidade Relacionamento de Exemplo](imagens/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
 
