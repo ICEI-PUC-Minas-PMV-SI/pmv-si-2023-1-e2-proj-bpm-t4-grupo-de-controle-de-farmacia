@@ -182,7 +182,7 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 
 
-**Diagrama Entidade Relacionamento**
+**DER - Diagrama Entidade Relacionamento**
 ![diagrama_entidade_relacionamento](imagens/farmacia_relacional.png "Modelo de Entidade Relacionamento")
 
 
