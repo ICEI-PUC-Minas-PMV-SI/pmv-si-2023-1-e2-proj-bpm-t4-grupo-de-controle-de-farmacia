@@ -180,9 +180,9 @@ Apresente o modelo de dados por meio de um modelo relacional ou Diagrama de Enti
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/der_puc.png "Modelo de Entidade Relacionamento")
 
-![Diagrama de Entidade Relacionamento de Exemplo](imagens/er_diagram.png "Diagrama de Entidade Relacionamento de Exemplo")
 
-![]("C:\Users\Julio\Downloads\der_puc.pdf")
+![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/farmacia_relacional.png "Modelo de Entidade Relacionamento")
+
 
 ## 6. Indicadores de desempenho
 
