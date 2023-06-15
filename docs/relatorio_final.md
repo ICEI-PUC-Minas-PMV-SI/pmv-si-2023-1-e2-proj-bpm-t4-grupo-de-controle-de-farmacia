@@ -78,11 +78,42 @@ Porém, muitas vezes os processos fundamentais para o funcionamento de um servi�
 
 ## 3.1. Análise da situação atual
 
-Apresente uma descrição textual de como os sistemas atuais resolvem o problema que se propoe a resolver.  Caso sua proposta seja inovadora e não existam processos claramente definidos, **apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente**, mesmo que não se utilize tecnologia computacional.
+Muitos os problemas enfrentados pelas farmácias que possuem potencial ganho com a automatização. Logo, também são muitas as opções de processos manuais e ineficientes que podem ser agilizados e melhorados com o uso de sistemas de informação. A melhoria desses processos traz um potencial de ganho de capital, fidelização do cliente, repetibilidade e agilização dos processos internos.  
 
 ## 3.2. Descrição Geral da proposta
+União entre os clientes e o revendedor, para facilitar: 
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+- O Atendimento ao cliente: É uma das principais preocupações das farmácias, uma vez que muitas vezes precisam atender a um grande número de pacientes com necessidades variadas. A falta de pessoal e o treinamento inadequado podem levar a problemas de atendimento ao cliente e à insatisfação dos pacientes.
+- Pressão para atingir metas de vendas: as farmácias muitas vezes enfrentam a pressão de atingir metas de vendas, o que pode levar a práticas antiéticas ou a venda de produtos desnecessários. Essa pressão também pode afetar negativamente a qualidade do atendimento ao cliente.
+- Desafios tecnológicos: as farmácias precisam estar sempre atualizadas com as últimas tecnologias e sistemas de informação para gerenciar seus estoques e prestar atendimento ao cliente. Além disso, as farmácias também enfrentam ameaças cibernéticas e ataques de hackers.
+Problemas:
+    Compra de remédios com baixa visibilidade do estoque. 
+
+    Falta de diversidades de Fornecedores. 
+
+    Pressão de atingir metas de vendas. 
+
+    A falta de pessoal e o treinamento inadequado. 
+
+    Ineficiências no atendimento ao cliente. Perda de oportunidades de revenda. 
+
+Solução: 
+
+    Histórico de compras dos produtos. 
+
+    Visualização da periodicidade de vendas dos medicamentos 
+
+    Segmentação dos medicamentos por validade. (Prateleira de 3, 6, 9 meses…) 
+
+Processos: 
+
+    Cadastro de Clientes. 
+
+    Cadastro de Produtos. 
+
+    Controle de Vendas. 
+
+    Vendas de medicamentos. 
 
 ## 3.3. Modelagem dos Processos
 
