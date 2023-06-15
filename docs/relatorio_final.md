@@ -174,6 +174,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi realizado o mapeamento de processos e a automação.
 
 ## 5. Modelo de dados
+Projeto de arquitetura de dados da solução proposta
 
 **Modelo Relacional**
 
@@ -182,7 +183,7 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 
 
-**DER - Diagrama Entidade Relacionamento**
+**Diagrama Entidade Relacionamento (DER)**
 ![diagrama_entidade_relacionamento](imagens/farmacia_relacional.png "Modelo de Entidade Relacionamento")
 
 
