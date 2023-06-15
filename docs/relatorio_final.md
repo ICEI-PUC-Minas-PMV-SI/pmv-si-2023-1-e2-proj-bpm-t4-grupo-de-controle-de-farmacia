@@ -20,9 +20,7 @@ Professores:
 
 ---
 
-_Curso de Sistemas de Informação_
-
-_Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
+_Curso de Sistemas de Informação - Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
 ---
 
