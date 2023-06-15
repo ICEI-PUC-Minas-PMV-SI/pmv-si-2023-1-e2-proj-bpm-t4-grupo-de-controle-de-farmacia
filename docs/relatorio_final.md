@@ -86,34 +86,24 @@ União entre os clientes e o revendedor, para facilitar:
 - O Atendimento ao cliente: É uma das principais preocupações das farmácias, uma vez que muitas vezes precisam atender a um grande número de pacientes com necessidades variadas. A falta de pessoal e o treinamento inadequado podem levar a problemas de atendimento ao cliente e à insatisfação dos pacientes.
 - Pressão para atingir metas de vendas: as farmácias muitas vezes enfrentam a pressão de atingir metas de vendas, o que pode levar a práticas antiéticas ou a venda de produtos desnecessários. Essa pressão também pode afetar negativamente a qualidade do atendimento ao cliente.
 - Desafios tecnológicos: as farmácias precisam estar sempre atualizadas com as últimas tecnologias e sistemas de informação para gerenciar seus estoques e prestar atendimento ao cliente. Além disso, as farmácias também enfrentam ameaças cibernéticas e ataques de hackers.
+  
 Problemas:
-    Compra de remédios com baixa visibilidade do estoque. 
-
-    Falta de diversidades de Fornecedores. 
-
-    Pressão de atingir metas de vendas. 
-
-    A falta de pessoal e o treinamento inadequado. 
-
-    Ineficiências no atendimento ao cliente. Perda de oportunidades de revenda. 
+- Compra de remédios com baixa visibilidade do estoque. 
+- Falta de diversidades de Fornecedores. 
+- Pressão de atingir metas de vendas. 
+- A falta de pessoal e o treinamento inadequado. 
+- Ineficiências no atendimento ao cliente. Perda de oportunidades de revenda. 
 
 Solução: 
+- Histórico de compras dos produtos. 
+- Visualização da periodicidade de vendas dos medicamentos 
+- Segmentação dos medicamentos por validade. (Prateleira de 3, 6, 9 meses…) 
 
-    Histórico de compras dos produtos. 
-
-    Visualização da periodicidade de vendas dos medicamentos 
-
-    Segmentação dos medicamentos por validade. (Prateleira de 3, 6, 9 meses…) 
-
-Processos: 
-
-    Cadastro de Clientes. 
-
-    Cadastro de Produtos. 
-
-    Controle de Vendas. 
-
-    Vendas de medicamentos. 
+Processos:
+- Cadastro de Clientes. 
+- Cadastro de Produtos. 
+- Controle de Vendas. 
+- Vendas de medicamentos. 
 
 ## 3.3. Modelagem dos Processos
 
