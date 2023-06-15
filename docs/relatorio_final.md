@@ -59,8 +59,7 @@ Em relação aos objetivos específicos do sistema, temos a possibilidade de vis
 
         1.3.1 Objetivos específicos
 
-Apresente também alguns (pelo menos 2) **objetivos específicos** dependendo de onde você vai querer 
-concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Viabilizar um fluxo de processos capaz de garantir eficiência e funcionalidade de uma empresa farmacêutica. A proposta irá entender e aplicar, dentro do contexto de modelagem de processos de negócios, as diversas regras de que envolvem esse tipo de atividade, ou seja, todo o fluxo será mapeado levando em consideração o início e o fim de todos os passos que deverão ser claramente mapeados.
 
     1.4 Justificativas
 
