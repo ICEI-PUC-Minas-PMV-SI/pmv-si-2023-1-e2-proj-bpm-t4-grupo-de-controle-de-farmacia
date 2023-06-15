@@ -38,8 +38,7 @@ A introdução deve apresentar de dois ou quatro parágrafos de contextualizaç�
 
     1.1 Contextualização
     
-Este trabalho tem por finalidade realizar a modelagem primária do processo de negócio de uma farmácia. Todo o estudo desenvolvido referente ao processo de negócio de uma farmácia foi trabalhado com foco no contexto desse tipo de negócio que está presente no cotidiano dos usuários. 
-O objetivo é criar uma proposta de solução que viabiliza um fluxo de processos capaz de garantir eficiência e funcionalidade de uma empresa farmacêutica. A proposta irá entender e aplicar, dentro do contexto de modelagem de processos de negócios, as diversas regras de que envolvem esse tipo de atividade, ou seja, todo o fluxo será mapeado levando em consideração o início e o fim de todos os passos que deverão ser claramente mapeados.
+Este trabalho tem por finalidade realizar a modelagem primária do processo de negócio de uma farmácia. Todo o estudo desenvolvido referente ao processo de negócio de uma farmácia foi trabalhado com foco no contexto desse tipo de negócio que está presente no cotidiano dos usuários. O objetivo é criar uma proposta de solução que viabiliza um fluxo de processos capaz de garantir eficiência e funcionalidade de uma empresa farmacêutica. A proposta irá entender e aplicar, dentro do contexto de modelagem de processos de negócios, as diversas regras de que envolvem esse tipo de atividade, ou seja, todo o fluxo será mapeado levando em consideração o início e o fim de todos os passos que deverão ser claramente mapeados.
 
 O trabalho se torna relevante quando consideramos os dados mais atualizados do Conselho Federal de Farmácia do Brasil (2021). A instituição relata que, em 2020 existiam 89.879 Farmácias e drogarias comerciais no Brasil. Além das 8.506 farmácias de manipulação, 6.771 farmácias hospitalares e 6.771 farmácias públicas. Todas as farmácias possuem processos que podem ser melhorados e agilizados, vide o propósito do trabalho.
 
@@ -56,7 +55,8 @@ para tal.
 
     1.3 Objetivo geral
 
-Como objetivo geral do sistema temos a facilitação do processo de integração entre os consumidores e revendedores no setor farmacêutico. Auxiliando a partir de um sistema na compra, venda e organização de medicamentos de acordo com oferta e demanda. 
+Como objetivo geral do sistema temos a facilitação do processo de integração entre os consumidores e revendedores no setor farmacêutico. Auxiliando a partir de um sistema na compra, venda e organização de medicamentos de acordo com oferta e demanda.
+
 Em relação aos objetivos específicos do sistema, temos a possibilidade de visualização do histórico e periodicidade de compra dos produtos, assim como o auxílio no controle de estoque a partir da segmentação dos medicamentos por validade e lote. 
 
         1.3.1 Objetivos específicos
@@ -81,11 +81,14 @@ Porém, muitas vezes os processos fundamentais para o funcionamento de um servi�
 ## 3.1. Análise da situação atual
 
 O processo de cadastro de clientes é mapeado para identificar o fluxo de atividades envolvido. O processo atual (AS-IS) é manual e utiliza fichas físicas em suporte papel para armazenar as informações dos clientes. No entanto, este método pode ser ineficiente e problemático, pois as informações precisam ser recuperadas manualmente sempre que há necessidade de consulta ou atualização do cadastro.
+
 No processo AS-IS de cadastro de produto, temos um processo excessivamente manual, pouco ágil que gera um gargalo de tempo. Após reunir os dados dos medicamentos eles são preenchidos em linhas e colunas de planilha para serem enviadas sempre para o crivo da Gerência e posteriormente para definir o destino dos dados, ficando um processo muito demorado e pouco prático.
+
 A modelagem AS-IS desenvolvida mapeou o workflow de uma farmácia e nessa atividade foi possível verificar a indisponibilidade de oferecer para os clientes novas formas de pagamento de produto, além da inexistência de uma metodologia sistémica de comunicação entre a área de cadastramento de produto, especialmente, quando um determinado produto não está disponível na organização. 
 
 ## 3.2. Descrição Geral da proposta
 Muitos os problemas enfrentados pelas farmácias que possuem potencial ganho com a automatização. Logo, também são muitas as opções de processos manuais e ineficientes que podem ser agilizados e melhorados com o uso de sistemas de informação. A melhoria desses processos traz um potencial de ganho de capital, fidelização do cliente, repetibilidade e agilização dos processos internos.
+
 União entre os clientes e o revendedor, para facilitar:
 - O Atendimento ao cliente: É uma das principais preocupações das farmácias, uma vez que muitas vezes precisam atender a um grande número de pacientes com necessidades variadas. A falta de pessoal e o treinamento inadequado podem levar a problemas de atendimento ao cliente e à insatisfação dos pacientes.
 - Pressão para atingir metas de vendas: as farmácias muitas vezes enfrentam a pressão de atingir metas de vendas, o que pode levar a práticas antiéticas ou a venda de produtos desnecessários. Essa pressão também pode afetar negativamente a qualidade do atendimento ao cliente.
@@ -201,7 +204,13 @@ Faça aqui uma breve descrição do software e coloque as principais telas com u
 
 ## 8. Conclusão
 
-Apresente aqui a conclusão do seu trabalho. Discussão dos resultados obtidos no trabalho, onde se verifica as observações pessoais de cada aluno. Poderá também apresentar sugestões de novas linhas de estudo.
+Na construção deste projeto foi realizado a modelagem de processos de negócio de uma farmácia, no qual foi elaborado em grupo propostas de soluções que buscaram assegurar a eficiência e funcionalidade de uma empresa farmacêutica. A proposta foi desenvolvida levando em conta todos os elementos-chave dos processos de negócios, com foco em maximizar o retorno esperado. A modelagem de processos de negócios visa inicialmente o mapeamento do processo existente no qual a empresa esteja trabalhando (processo AS-IS), durante essa fase o mapeamento apresentou o estado atual do processo que estava suportando a empresa e foi percebido diversos pontos de melhorias que poderiam contribuir para o ganho de eficiência no negócio que foi objeto de estudo. 
+
+A evolução da primeira fase com o estudo focado na modelagem de futuro (TO-BE) da empresa que teve por finalidade implantar melhorias no processo existente. Diante desta nova fase do projeto foi realizado o mapeamento do trabalho desenvolvido, com o uso da ferramenta Sydle One onde oferece a possibilidade de mapeamento de processos BPMN e a automação do fluxo na mesma ferramenta. Toda a base acadêmica trabalhada pela universidade preparou os integrantes no entendimento, elaboração e análise das diversas fases do projeto. A mentoria oferecida ajudou a corrigir e a focar nos objetivos de cada entrega, fazendo que a cada nova interação fosse possível observar uma melhoria contínua nos entregáveis do projeto que estava em desenvolvimento.  
+
+A limitação de fazer todo o projeto com o uso da ferramenta Sydle One trouxe a percepção que em diversos momentos o grande limitador era o uso da ferramenta que prioritariamente deve facilitar e não impor maiores obstáculo. Em caso de uma entrega para um cliente externo, a adoção de uma ferramenta mais consolidada no mercado, que possua uma documentação clara de uso e que exija uma curva de aprendizado menos acentuada, passaria ser objeto de análise para a adoção da ferramenta na construção do projeto. Cabe ressaltar que obstáculos desta natureza implica em aumento do tempo de projeto o que tende em um aumento de custo. 
+
+Contudo foi possível experimentar o gerenciamento de projeto por meio de metodologia ágil como o Kanbam e trabalhar questão envolvidas ao design de banco de dados e a construção de DER, alem de planejarmos as próximas entregas quando finalizava cada interação. 
 
 # REFERÊNCIAS
 
