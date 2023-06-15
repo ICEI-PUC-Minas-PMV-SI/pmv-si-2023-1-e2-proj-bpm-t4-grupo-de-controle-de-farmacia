@@ -81,8 +81,8 @@ Porém, muitas vezes os processos fundamentais para o funcionamento de um servi�
 Muitos os problemas enfrentados pelas farmácias que possuem potencial ganho com a automatização. Logo, também são muitas as opções de processos manuais e ineficientes que podem ser agilizados e melhorados com o uso de sistemas de informação. A melhoria desses processos traz um potencial de ganho de capital, fidelização do cliente, repetibilidade e agilização dos processos internos.  
 
 ## 3.2. Descrição Geral da proposta
-União entre os clientes e o revendedor, para facilitar: 
-
+Muitos os problemas enfrentados pelas farmácias que possuem potencial ganho com a automatização. Logo, também são muitas as opções de processos manuais e ineficientes que podem ser agilizados e melhorados com o uso de sistemas de informação. A melhoria desses processos traz um potencial de ganho de capital, fidelização do cliente, repetibilidade e agilização dos processos internos.
+União entre os clientes e o revendedor, para facilitar:
 - O Atendimento ao cliente: É uma das principais preocupações das farmácias, uma vez que muitas vezes precisam atender a um grande número de pacientes com necessidades variadas. A falta de pessoal e o treinamento inadequado podem levar a problemas de atendimento ao cliente e à insatisfação dos pacientes.
 - Pressão para atingir metas de vendas: as farmácias muitas vezes enfrentam a pressão de atingir metas de vendas, o que pode levar a práticas antiéticas ou a venda de produtos desnecessários. Essa pressão também pode afetar negativamente a qualidade do atendimento ao cliente.
 - Desafios tecnológicos: as farmácias precisam estar sempre atualizadas com as últimas tecnologias e sistemas de informação para gerenciar seus estoques e prestar atendimento ao cliente. Além disso, as farmácias também enfrentam ameaças cibernéticas e ataques de hackers.
