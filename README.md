@@ -18,10 +18,9 @@ Na proposta, todos os componentes dos processos de negócios são considerados, 
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 Acessar o link: https://pucminas-partner.sydle.one/#/
 
-https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/blob/master/docs/relatorio_final.md
+Relatório final: https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/blob/master/docs/relatorio_final.md
 
 ## Histórico de versões
 
