@@ -194,14 +194,14 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 ## 5. Modelo de dados
 Projeto de arquitetura de dados da solução proposta
 
-**Modelo Relacional**
+### 5.1. Modelo Relacional
 
 ![modelo_relacional](imagens/der_puc.png "Modelo de Entidade Relacionamento")
 
 
 
 
-**Diagrama Entidade Relacionamento (DER)**
+### 5.2. Diagrama Entidade Relacionamento (DER)
 ![diagrama_entidade_relacionamento](imagens/farmacia_relacional.png "Modelo de Entidade Relacionamento")
 
 
