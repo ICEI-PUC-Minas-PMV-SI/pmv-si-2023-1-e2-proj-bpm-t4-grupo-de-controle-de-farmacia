@@ -237,24 +237,19 @@ Contudo foi possível experimentar o gerenciamento de projeto por meio de metodo
 
 # REFERÊNCIAS
 
-Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso você deseje incluir referências relacionadas às tecnologias, padrões, ou metodologias que serão usadas no seu trabalho, relacione-as de acordo com a ABNT.
-
-Verifique no link abaixo como devem ser as referências no padrão ABNT:
-
-http://www.pucminas.br/imagedb/documento/DOC\_DSC\_NOME\_ARQUI20160217102425.pdf
-
-
 **[1.1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
 
 **[1.2]** - _NIELD, Thomas. **Getting Started with SQL**. A Hands-on Approach forBeginners. Sebastopol: O’Reilly, 2016. Capítulos 1 e 2. LivroEletrônico._
 
-**[1.2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
+**[1.3]** - BEAULIEU, Alan. **Learning SQL**. Sebastopol: O’Reilly, 2020. Capítulos 1 e 2. Livro Eletrônico._
 
-**[1.3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
+**[1.4]** - _VIESCAS, John L. **SQL Queries for Mere Mortals**. A Hands-On Guide to Data Manipulation in SQL. O’Reilly, 2020. Partes II e III e capítulos 13 e 14. Livro eletrônico._
 
-**[1.4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
+**[1.5]** - _DATE, C. J. **Introdução a sistemas de bancos de dados**. Rio de Janeiro: Elsevier, 2004. Seções 3.8, 15.2, 15.3 e 17.6 e Livro Eletrônico._
 
-**[1.5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
+**[1.6]** - _CODD, Edgar Frank. **A relational model of data for large shared data banks**. Communications of the ACM. 13(6):377–387. 1970._
+
+**[1.7]** - _SADALAGE, Pramod J; FOWLER, Martin Fowler. **NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence**. 1ed. Pearson, 2013._
 
 
 
