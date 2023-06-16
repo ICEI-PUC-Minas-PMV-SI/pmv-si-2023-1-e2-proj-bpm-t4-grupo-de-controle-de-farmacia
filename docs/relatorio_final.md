@@ -137,7 +137,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
 
-#### Processo 1 – NOME DO PROCESSO
+#### Processo 1 – PROCESSO DE CADASTRO DE CLIENTES
 
 **Nome da atividade 1**
 
@@ -155,7 +155,23 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 | [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
 |    |    |     |
 
-#### Processo 2 – NOME DO PROCESSO
+#### Processo 2 – PROCESSO DE CADASTRO DE PRODUTOS
+
+**Nome da atividade 1**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+|    |    |     |
+
+**Nome da atividade 2**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+|    |    |     |
+
+#### Processo 3 – PROCESSO DE VENDAS
 
 **Nome da atividade 1**
 
