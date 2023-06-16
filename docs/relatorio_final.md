@@ -212,7 +212,7 @@ Usar o seguinte modelo:
 
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
-| Quanto foi vendido no mês | Avaliar quanto foi vendido no mês | Somatório do valor de todos os produtos vendidos no mês |   | Tabela de vendas | Processo de vendas |
+| Quanto foi vendido no mês | Avaliar quanto foi vendido no mês | Somatório do valor de todos os produtos vendidos no mês | ![](https://latex.codecogs.com/svg.latex?\sum{produtosvendidos}) | Tabela de vendas | Processo de vendas |
 | Valor vendido por cada categoria de produto no mês | Avaliar quais categorias possuem maior fluxo de venda | Somatório do valor de cada produto vendido no mês | ![\frac{\sum{atendidas}}{\sum{requisicoes}}100](https://latex.codecogs.com/svg.latex?\frac{\sum{atendidas}}{\sum{requisicoes}}100) | Tabela de vendas | Processo de vendas |
 | Valor vendido por cada tipo de pagamento no mês | Avaliar a relevância dos meios de pagamento ofertados | Somatório das vendas realizadas pelas modalidades de pagamento disponibilizada no mês | ![](https://latex.codecogs.com/svg.latex?\sum{produtosvendidos})  | Tabela de vendas e tabela de tipos de pagamentos | Processo de vendas |
 | Valor médio das vendas realizadas pelos clientes | Avaliar o ticket médio realizado pelos clientes | Valor médio pago pelos clientes | ![](https://latex.codecogs.com/svg.latex?\frac{\sum{valorproduto}}{\sum{quantidadeproduto}}) | Tabela de vendas | Processo de vendas |
