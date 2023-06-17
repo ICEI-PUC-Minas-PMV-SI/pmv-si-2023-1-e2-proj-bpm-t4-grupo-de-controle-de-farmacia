@@ -44,10 +44,11 @@ Na proposta, todos os componentes dos processos de negócios são considerados, 
 
     1.2 Problema
 
-Em seguida o aluno deve caminhar a contextualização para descrever o **problema** que o artigo trata. 
-O **problema** pode ser algo vivido em uma empresa específica. Neste caso, o aluno deve rapidamente apresentar 
-o cenário de problema da empresa. A empresa só deve ser citada explicitamente se o aluno tiver autorização 
-para tal.
+&nbsp;&nbsp;&nbsp;&nbsp;O processo de cadastro de clientes é mapeado para identificar o fluxo de atividades envolvido. Atualmente, o processo é todo manual e utiliza fichas físicas em suporte papel para armazenar as informações dos clientes. No entanto, este método pode ser ineficiente e problemático, pois as informações precisam ser recuperadas manualmente sempre que há necessidade de consulta ou atualização do cadastro.
+
+&nbsp;&nbsp;&nbsp;&nbsp;No processo de cadastro de produto, temos um processo excessivamente manual, pouco ágil que consume um tempo excessivo criando um gargalo no processo. Após reunir os dados dos medicamentos eles são preenchidos em linhas e colunas de planilha para serem enviadas sempre para o crivo da Gerência e posteriormente para definir o destino dos dados, ficando um processo muito demorado e pouco prático.
+
+&nbsp;&nbsp;&nbsp;&nbsp;No processo de venda foi analisado a indisponibilidade de oferecer para os clientes novas formas de pagamento de produto, além da inexistência de uma metodologia sistémica de comunicação entre a área de cadastramento de produto, especialmente, quando um determinado produto não está disponível na organização. 
 
     1.3 Objetivo geral
 
