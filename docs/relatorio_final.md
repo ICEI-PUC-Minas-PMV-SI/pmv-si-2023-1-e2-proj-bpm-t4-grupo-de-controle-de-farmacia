@@ -1,15 +1,15 @@
 # CONTROLE DE FARMÁCIA
 
 
-**Julio dos Reis Firmino, jrfirmino@sga.pucminas.br**
+**Julio dos Reis Firmino, email: jrfirmino@sga.pucminas.br**
 
-**Eduardo Henrique Morais Costa, eduardo.costa.1187487@sga.pucminas.br**
+**Eduardo Henrique Morais Costa, email: eduardo.costa.1187487@sga.pucminas.br**
 
-**Hudson Suvalsky Vieira, hudson.suvalsky@sga.pucminas.br**
+**Hudson Suvalsky Vieira, email: hudson.suvalsky@sga.pucminas.br**
 
-**Carlos Gabriel Campos Gaspar, carlos.gaspar.1429414@sga.pucminas.br**
+**Carlos Gabriel Campos Gaspar, email: carlos.gaspar.1429414@sga.pucminas.br**
 
-**Jeziel Suzana Pires da Silva, jeziel.pires@sga.pucminas.br**
+**Jeziel Suzana Pires da Silva, email: jeziel.pires@sga.pucminas.br**
 
 
 ---
