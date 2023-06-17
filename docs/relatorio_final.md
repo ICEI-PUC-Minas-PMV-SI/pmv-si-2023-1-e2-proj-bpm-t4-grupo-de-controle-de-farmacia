@@ -205,10 +205,6 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 ## 6. Indicadores de desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores.
-
-Usar o seguinte modelo:
-
 | **Indicador** | **Objetivos** | **Descrição** | **Cálculo** | **Fonte dados** | **Perspectiva** |
 | --- | --- | --- | --- | --- | --- |
 | Quanto foi vendido no mês | Avaliar quanto foi vendido no mês | Somatório do valor de todos os produtos vendidos no mês | ![](https://latex.codecogs.com/svg.latex?\sum{vendidos}) | Tabela de vendas | Processo de vendas |
@@ -216,8 +212,6 @@ Usar o seguinte modelo:
 | Valor vendido por cada tipo de pagamento no mês | Avaliar a relevância dos meios de pagamento ofertados | Somatório das vendas realizadas pelas modalidades de pagamento disponibilizada no mês | ![](https://latex.codecogs.com/svg.latex?\sum_{1}^{n}{modalidade}) | Tabela de vendas e tabela de tipos de pagamentos | Processo de vendas |
 | Valor médio das vendas realizadas pelos clientes | Avaliar o ticket médio realizado pelos clientes | Valor médio pago pelos clientes | ![](https://latex.codecogs.com/svg.latex?\frac{\sum{valor}}{quantidade}) | Tabela de vendas | Processo de vendas |
 | Número de novos clientes cadastrados | Avaliar o crescimento no número de novos cadastros | Somatório de novos clientes adquiridos | ![](https://latex.codecogs.com/svg.latex?\sum{novosclientes}) | Tabela de clientes | Processo de cadastro de clientes |
-
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
 
 ## 7. Sistema desenvolvido
 
