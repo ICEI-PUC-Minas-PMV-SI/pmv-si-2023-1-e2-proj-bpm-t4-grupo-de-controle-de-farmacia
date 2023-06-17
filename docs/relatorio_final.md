@@ -214,7 +214,7 @@ Usar o seguinte modelo:
 | Quanto foi vendido no mês | Avaliar quanto foi vendido no mês | Somatório do valor de todos os produtos vendidos no mês | ![](https://latex.codecogs.com/svg.latex?\sum{vendidos}) | Tabela de vendas | Processo de vendas |
 | Valor vendido por cada categoria de produto no mês | Avaliar quais categorias possuem maior fluxo de venda | Somatório do valor de cada produto vendido no mês | ![](https://latex.codecogs.com/svg.latex?\sum_{1}^{n}{produto}) | Tabela de vendas | Processo de vendas |
 | Valor vendido por cada tipo de pagamento no mês | Avaliar a relevância dos meios de pagamento ofertados | Somatório das vendas realizadas pelas modalidades de pagamento disponibilizada no mês | ![](https://latex.codecogs.com/svg.latex?\sum_{1}^{n}{modalidade}) | Tabela de vendas e tabela de tipos de pagamentos | Processo de vendas |
-| Valor médio das vendas realizadas pelos clientes | Avaliar o ticket médio realizado pelos clientes | Valor médio pago pelos clientes | ![](https://latex.codecogs.com/svg.latex?\frac{\sum{valor}}{\sum{quantidade}}) | Tabela de vendas | Processo de vendas |
+| Valor médio das vendas realizadas pelos clientes | Avaliar o ticket médio realizado pelos clientes | Valor médio pago pelos clientes | ![](https://latex.codecogs.com/svg.latex?\frac{\sum{valor}}{quantidade}) | Tabela de vendas | Processo de vendas |
 | Número de novos clientes cadastrados | Avaliar o crescimento no número de novos cadastros | Somatório de novos clientes adquiridos | ![](https://latex.codecogs.com/svg.latex?\sum{novosclientes}) | Tabela de clientes | Processo de cadastro de clientes |
 
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe **a ser proposto**
