@@ -113,19 +113,29 @@ Processos:
 
 ### 3.3.1 Processo 1 – PROCESSO DE CADASTRO DE CLIENTES
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN.
+A solução proposta para os problemas identificados no processo de cadastro de clientes no modelo AS-IS é a digitalização do processo. Essa solução é benéfica para aumentar a eficiência e agilidade no processo de cadastro de clientes. Com a digitalização, os clientes terão menos transtornos ao realizar o cadastro ou atualizar seus dados, o que incentivará a realização dessas atividades.  
+
+Além disso, a digitalização do processo traz melhorias significativas na segurança das informações dos clientes, pois os documentos digitais são menos suscetíveis a avarias, perda e acesso não autorizado aos dados. Isso garante maior proteção aos dados dos clientes e reduz os riscos de violações de segurança.  
+
+A implementação da solução de digitalização também proporciona melhorias na gestão de processos da empresa, pois torna o processo de cadastro de clientes mais eficiente e rápido, resultando em uma melhor experiência do cliente. Com essa solução, a empresa pode garantir uma gestão de processos mais eficiente e atualizada, além de contribuir para uma melhor imagem da marca perante os clientes.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/cadastro_cliente.jpeg "Modelo BPMN do Processo 1.")
 
 ### 3.3.2 Processo 2 – PROCESSO DE CADASTRO DE PRODUTOS
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+No processo TO-BE de cadastro de produto, temos um processo que inicia com a consulta do estoque para evitar o cadastro de produtos desnecessários, e caso seja necessário é utilizado um sistema próprio para revisão dos dados, assim descentralizando o papel de participação da gerência desde o início, sendo necessário somente a revisão do gerente em caso de inconsistência dos dados recebidos.  
+
+Em caso de inconsistência, é possível realizar o preenchimento no sistema de cadastro de produtos diretamente para posterior publicação. No entanto, caso seja necessária a revisão do gerente, no lugar do envio de e-mails para comunicação e status, é alterada diretamente no sistema de cadastro dos dados se o cadastro do produto será negado ou aprovado.
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/cadastro_produto.jpeg "Modelo BPMN do Processo 1.")
 
 ### 3.3.3 Processo 3 – PROCESSO DE VENDAS
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
+Processo de modelagem e gestão de processos de negócios utilizado para vendas. O desenvolvimento desta modelagem tem por finalidade apresentar um workflow que visa apresentar uma abordagem de futuro dos modelos de processos da organização. melhorar e trazer eficiência ao modelo existente da empresa. 
+
+Com foco no tipo de processo no qual está inserido o processo de venda, foi desenvolvido um novo workflow que considera as características de um processo primário no qual inclui a atividade finalística e essencial para a organização. o foco na entrega de valor para os usuários é uma parte essencial do mapeamento de processo de negócio pois ajuda no suporte de soluções que permitem o crescimento do negócio. 
+
+A modelagem TO-BE desenvolvida apresenta novas definições de fluxos com o objetivo de suportar uma maior eficiência as atividades fins da organização. A análise permitiu apresentar um fluxo de pagamento que tem o objetivo de inserir as principais metodologias de mercado para esse tipo de serviço. A necessidade de prever uma atividade de reportar a falta de algum produto solicitado pelo cliente foi inserido nessa abordagem de visão processual de futuro da referida organização. 
 
 ![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/vendas.jpeg "Modelo BPMN do Processo 1.")
 
