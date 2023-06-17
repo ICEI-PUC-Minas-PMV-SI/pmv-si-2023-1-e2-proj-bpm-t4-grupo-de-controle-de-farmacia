@@ -225,7 +225,7 @@ A evolução da primeira fase com o estudo focado na modelagem de futuro (TO-BE)
 
 A limitação de fazer todo o projeto com o uso da ferramenta Sydle One trouxe a percepção que em diversos momentos o grande limitador era o uso da ferramenta que prioritariamente deve facilitar e não impor maiores obstáculo. Em caso de uma entrega para um cliente externo, a adoção de uma ferramenta mais consolidada no mercado, que possua uma documentação clara de uso e que exija uma curva de aprendizado menos acentuada, passaria ser objeto de análise para a adoção da ferramenta na construção do projeto. Cabe ressaltar que obstáculos desta natureza implica em aumento do tempo de projeto o que tende em um aumento de custo. 
 
-Contudo foi possível experimentar o gerenciamento de projeto por meio de metodologia ágil como o Kanbam e trabalhar questão envolvidas ao design de banco de dados e a construção de DER, alem de planejarmos as próximas entregas quando finalizava cada interação. 
+Contudo foi possível ter contato com o gerenciamento de projeto por meio do uso de metodologia ágil como o Kanbam além de colocarmos em prática as boas práticas relativas ao design de banco de dados, planejamento das próximas entregas e a análise de qual tipo de banco de dados deveríamos adotar levando em consideração as regras de negócio. Desta forma foi possível atender a todos os requisitos do projeto por meio das atividades desenvolvidas em cada interação, tal desenvolvimento possibilitou a construção de um software que atende as melhorias processuais planejadas em grupo e que tem por finalidade a melhora na eficiência processual das regras de negócio de uma instituição farmacêutica. 
 
 # REFERÊNCIAS
 
