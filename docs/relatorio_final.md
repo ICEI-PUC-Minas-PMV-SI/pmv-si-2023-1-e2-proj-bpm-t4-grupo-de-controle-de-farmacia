@@ -190,7 +190,7 @@ Descrever aqui cada uma das propriedades das atividades de cada um dos processos
 
 O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi realizado o mapeamento de processos e a automação.
 
-## 5. Projeto de arquitetura de dados
+## 5. Projeto de Arquitetura de Dados
 
 ### 5.1. Modelo Relacional
 
