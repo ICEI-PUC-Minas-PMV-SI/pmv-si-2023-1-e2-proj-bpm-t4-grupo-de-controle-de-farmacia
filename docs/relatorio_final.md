@@ -127,7 +127,7 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](imagens/call_process.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 1](imagens/vendas.jpeg "Modelo BPMN do Processo 1.")
 
 
 ## 4. Projeto da Solução
