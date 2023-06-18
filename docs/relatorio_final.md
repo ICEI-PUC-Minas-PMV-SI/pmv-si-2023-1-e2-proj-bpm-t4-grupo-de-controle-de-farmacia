@@ -226,8 +226,6 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 ## 7. Sistema desenvolvido
 
-Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
-
 Neste projeto, foi desenvolvido um software com foco na modelagem e otimização de processos de negócios em uma empresa farmacêutica. Foram elaboradas soluções coletivas para garantir a eficácia e operacionalidade do setor farmacêutico em geral, considerando os dados do Conselho Federal de Farmácia do Brasil. O software foi desenvolvido utilizando a ferramenta SYDLE ONE para digitalização e automação dos processos de negócios, com ênfase em três processos principais: cadastro de clientes, cadastro de produtos e processo de vendas.
 
 Durante o desenvolvimento, todas as etapas dos processos de negócios foram consideradas, visando direcionar recursos organizacionais para metas específicas e maximizar o retorno esperado. No entanto, devido à diversidade de empresas no setor farmacêutico, a modelagem específica de casos individuais não foi abordada no projeto.
@@ -240,16 +238,101 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 ## 7.1. Principais telas dos processos criados
 
-1°  Cadastro de clientes:
+# 7.1.1 Cadastro de clientes:
 
-*A tela abaixo refere-se a interface inicial a ser navegada para seleção da opção cadastrar cliente.
+1.0 - Cadastro e consulta:
+
+1.1 - A tela abaixo refere-se a interface inicial para consulta dos clientes cadastrados ou para as opções de cadastrar cliente, atualizar dados do cliente e excluir cliente.
 
 ![primeiraInterfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/c8942b99-b1d5-4306-869e-b0f870d41a76)
 
-
-*A próxima tela refere-se ao questionário de preenchimento dos dados de um novo cliente.
+1.2 - A próxima tela refere-se ao questionário de preenchimento dos dados de um novo cliente.
 
 ![interfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5e35478e-4663-42d4-a864-09ef48535515)
+
+2.0 - Atualizar dados do cliente
+
+2.1 - Abaixo temos a interface para selecionar cliente para atualizar os dados.
+
+![interfaceAtualizarDadosSelecionarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/ad5867f4-ebbe-4b6a-b0d2-3ce733c027e1)
+
+2.2 - A próxima tela temos a interface do questionário para atualização dos dados e assim finalizar.
+
+![interfaceAtualizarDadosCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/eb7e6804-c975-4434-b811-c79c86afc13e)
+
+3.0 - Excluir cliente
+
+3.1 - Abaixo temos a interface para escolher qual cliente vamos excluir.
+
+![InterfaceExcluirCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/aca4f82d-5216-4320-840f-b80101e306e3)
+
+3.2 - Abaixo temos a tela mostrando uma verificação se realmente deseja excluir o cliente selecionado.
+
+![interfaceConfirmacaoExclusaoCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/798a4420-a74e-416a-94d1-7ed7c8f93744)
+
+# 7.1.2 Cadastro de produtos:
+
+1.0 - Cadastro e consulta
+
+1.1 - Abaixo temos a interface para consultar os produtos cadastrados na listagem ou selecionar alguma função de cadastro, exclusão ou atualização.
+
+![interfaceConsultarProdutos](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5490393f-1105-479e-83e0-07289fbe1f98)
+
+1.2 - A próxima tela selecionamos cadastrar novo produto, apresentando a interface para cadastro.
+
+![interfaceCadastrarProdutos](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/da112814-f658-436b-a995-e55c475f6905)
+
+2.0 - Atualizar Produto
+
+2.1 - Abaixo temos a tela para selecionar a função de "atualizar/alterar produto" e escolher qual produto cadastrado alterar.
+
+![interfaceAlterarProduto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/6511f1b9-54c4-42b9-a779-7d037b708d2d)
+
+2.2 - Na próxima tela temos o questinário com os dados do produto para atualização.
+
+![interfaceAlterandoDadosProduto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/dcad53a5-82a0-47ef-b0fa-75e0cbdda9fe)
+
+3.0 - Excluir Produto
+
+3.1 Abaixo temos a tela para selecionar a "função excluir produto" e escolher qual vai ser deletado.
+
+![interfaceSelecionarProdutoExcluir](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/d83b639c-6394-4dfc-b3ec-7b752d5fd739)
+
+3.2 Na próxima tela temos a confirmação de exclusão ou não do produto selecionado.
+
+![interfaceConfirmarProdutoExcluir](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/efdc65e7-ad84-4bb7-94c1-5121aefe3cca)
+
+
+# 7.1.3 Processo de vendas:
+
+1.0 - Comprar Produto e Verficar disponibilidade
+
+1.1 - Abaixo temos a interface apresentando os produtos disponíveis para a compra e a selecão da função "Comprar produto" , podendo selecionar também o cliente, produto e quantidade desejada.
+
+![interfaceComprarProduto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/2a2e6b46-5f06-4749-866b-ce4c6eddeb11)
+
+1.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 8. Conclusão
