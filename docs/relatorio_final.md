@@ -333,7 +333,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 ## 7.1. Principais telas dos processos criados
 
-# 7.1.1 Cadastro de clientes:
+### 7.1.1 Cadastro de clientes:
 
 1.0 - Cadastro e consulta:
 
@@ -365,7 +365,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 ![interfaceConfirmacaoExclusaoCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/798a4420-a74e-416a-94d1-7ed7c8f93744)
 
-# 7.1.2 Cadastro de produtos:
+### 7.1.2 Cadastro de produtos:
 
 1.0 - Cadastro e consulta
 
@@ -398,7 +398,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 ![interfaceConfirmarProdutoExcluir](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/efdc65e7-ad84-4bb7-94c1-5121aefe3cca)
 
 
-## 7.1.3 Processo de vendas:
+### 7.1.3 Processo de vendas:
 
 1.0 - Comprar Produto e Verficar disponibilidade
 
