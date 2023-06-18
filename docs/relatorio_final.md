@@ -147,6 +147,92 @@ Processos:
 
 #### Processo 1 – PROCESSO DE CADASTRO DE CLIENTES
 
+**Consultar Cliente**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| O que você deseja? | Seleção única | Opções: [Cadastrar novo cliente, Atualizar dados cliente, Excluir dados cliente, Sair] |  |
+| Cliente selecionado | Seleção única |     |
+| Listagem de Cliente | Área de texto |     |
+
+**Cadastrar Cliente**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Caixa de texto | Obrigatório | |
+| CPF | Caixa de texto | Obrigatório | |
+| Telefone | Caixa de texto | Obrigatório | |
+| E-mail | Caixa de texto | Obrigatório | |
+| Data de Nascimento | Data | Obrigatório |  |
+| Rua | Caixa de texto | Obrigatório |  |
+| Numero | Número | Obrigatório |  |
+| Bairro | Caixa de texto | Obrigatório |  |
+| Cidade | Caixa de texto | Obrigatório |  |
+| CEP | Caixa de texto | Obrigatório |  |
+
+**Atualizar os dados do Cliente**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Caixa de texto | Obrigatório | |
+| CPF | Caixa de texto | Obrigatório | |
+| Telefone | Caixa de texto | Obrigatório | |
+| E-mail | Caixa de texto | Obrigatório | |
+| Data de Nascimento | Data | Obrigatório |  |
+| Rua | Caixa de texto | Obrigatório |  |
+| Numero | Número | Obrigatório |  |
+| Bairro | Caixa de texto | Obrigatório |  |
+| Cidade | Caixa de texto | Obrigatório |  |
+| CEP | Caixa de texto | Obrigatório |  |
+
+**Excluir cliente**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Cliente selecionado | Seleção única | Obrigatório | |
+| Confirma a exclusão do cliente selecionado? | Booleano | Opções: [Verdadeiro, Falso] |  |
+
+#### Processo 2 – PROCESSO DE CADASTRO DE PRODUTOS
+
+**Consultar Estoque**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Listagem Produtos | Área de texto |  |  |
+| O que você deseja? | Seleção única | Opções: [Cadastrar novo produto, Alterar produto, excluir produto, Sair] |  |
+| Produto selecionado | Seleção única |  |  |
+
+**Cadastrar Produto**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Caixa de texto | Obrigatório | |
+| Descrição | Caixa de texto | Obrigatório | |
+| Marca | Caixa de texto | Obrigatório | |
+| Validade | Data | Obrigatório | |
+| Quantidade | Número | Obrigatório |  |
+| Categoria | Seleção única |  |  |
+
+**Atualizar dados do Produto**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Nome | Caixa de texto | Obrigatório | |
+| Descrição | Caixa de texto | Obrigatório | |
+| Marca | Caixa de texto | Obrigatório | |
+| Validade | Data | Obrigatório | |
+| Quantidade | Número | Obrigatório |  |
+| Categoria | Seleção única |  |  |
+
+**Excluir cadastro**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Produto selecionado | Seleção única |  | |
+| Confirma a exclusão do cliente selecionado? | Booleano | Opções: [Verdadeiro, Falso] |  |
+
+#### Processo 3 – PROCESSO DE VENDAS
+
 **Verificar a disponibilidade do produto**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
@@ -163,7 +249,6 @@ Processos:
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
 | Tipo Pagamento | Seleção única |  |  |
-|    |    |     |
 
 **Pagar no PIX**
 
@@ -172,7 +257,6 @@ Processos:
 | Produto Selecionado | Área de texto |  |  |
 | Tipo Pagamento | Área de texto |  |  |
 | Confirmar Compra | Booleano |  |  |
-|    |    |     |
 
 **Pagar no Cartão de crédito**
 
@@ -181,7 +265,6 @@ Processos:
 | Produto Selecionado | Área de texto |  |  |
 | Tipo Pagamento | Área de texto |  |  |
 | Confirmar Compra | Booleano |  |  |
-|    |    |     |
 
 **Pagar em dinheiro**
 
@@ -190,7 +273,6 @@ Processos:
 | Produto Selecionado | Área de texto |  |  |
 | Tipo Pagamento | Área de texto |  |  |
 | Confirmar Compra | Booleano |  |  |
-|    |    |     |
 
 **Editar venda**
 
@@ -208,38 +290,6 @@ Processos:
 | --- | --- | --- | --- |
 | Venda Selecionada | Seleção única |  |  |
 | Confirma o cancelamento da venda? | Booleano |  |  |
-
-#### Processo 2 – PROCESSO DE CADASTRO DE PRODUTOS
-
-**Nome da atividade 1**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
-
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
-
-#### Processo 3 – PROCESSO DE VENDAS
-
-**Nome da atividade 1**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
-
-**Nome da atividade 2**
-
-| **Campo** | **Tipo** | **Restrições** | **Valor default** |
-| --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-|    |    |     |
 
 ### 4.2. Tecnologias
 
