@@ -303,7 +303,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 ![interfaceConfirmarProdutoExcluir](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/efdc65e7-ad84-4bb7-94c1-5121aefe3cca)
 
 
-# 7.1.3 Processo de vendas:
+## 7.1.3 Processo de vendas:
 
 1.0 - Comprar Produto e Verficar disponibilidade
 
@@ -311,27 +311,40 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 ![interfaceComprarProduto](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/2a2e6b46-5f06-4749-866b-ce4c6eddeb11)
 
-1.2
+1.2 - Na próxima tela temos a etapa de selecionar o tipo de pagamento.
+
+![interfaceSelecioanarTipoPagamento](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/4fe4728c-d217-43d9-9208-40fcdf0401af)
+
+1.3 - Temos abaixo a etapa de confirmação da compra para efetivar a venda/compra.
+
+![interfaceConfirmarCompra](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/274f557a-c643-4be8-9a57-d7e590911c94)
+
+
+2.0 - Editar venda/compra
+
+2.1 - Abaixo temos a interface para selecionar a função de "Editar Compra" e assim selecionar a compra do cliente desejado.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/17e71f4c-51fd-43a7-bed5-0b63647f0dfb)
+
+2.2 - Na próxima tela temos os dados da venda/compra com os campos disponíveis para alteração e assim efetivar a mudança desejada. 
+
+![interfaceDadosVendaAlterar](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/dea5c505-4a98-44fc-a355-9e0612eb0ff8)
 
 
 
+3.0 - Excluir/Cancelar venda
+
+3.1- Na próxima tela temos a seleção da função "Excluir Venda" e selecionar a venda que desejamos excluir.
+
+![interfaceSelecionarExcluirVenda](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5a70e7d7-203d-4274-afa3-79b2a5ce6118)
+
+3.2- Nesta etapa abaixo temos a visualização da venda e confirmação do cancelamento da compra.
+
+![interfaceMostrarVendaExcluir](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/c998742d-3247-4a77-b8d2-c5034bf66f62)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![interfaceConfirmarExcluirVenda](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/27506eff-7cff-4fec-8501-542d19b254be)
 
 
 
