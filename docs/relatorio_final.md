@@ -475,13 +475,13 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 **Colocar link:**
 
-Do código (armazenado no repositório);
+**Código:** (armazenado no repositório);
 
-Dos artefatos (armazenado do repositório);
+**Artefatos:** (armazenado do repositório);
 
-Da apresentação final (armazenado no repositório);
+**Apresentação final:** (armazenado no repositório);
 
-Do vídeo de apresentação (armazenado no repositório).
+**Vídeo de apresentação:** (armazenado no repositório).
 
 
 
