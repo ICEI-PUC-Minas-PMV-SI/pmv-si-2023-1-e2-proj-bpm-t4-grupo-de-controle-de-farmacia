@@ -241,10 +241,16 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 ## 7.1. Principais telas dos processos criados
 
 1°  Cadastro de clientes:
+
 *A tela abaixo refere-se a interface inicial a ser navegada para seleção da opção cadastrar cliente.
 
-(![interfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5e35478e-4663-42d4-a864-09ef48535515)
-")
+![primeiraInterfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/c8942b99-b1d5-4306-869e-b0f870d41a76)
+
+
+*A próxima tela refere-se ao questionário de preenchimento dos dados de um novo cliente.
+
+![interfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5e35478e-4663-42d4-a864-09ef48535515)
+
 
 ## 8. Conclusão
 
