@@ -473,8 +473,6 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 # APÊNDICES
 
-**Colocar link:**
-
 **Código:** (armazenado no repositório);
 
 **Artefatos:** (armazenado do repositório);
