@@ -228,6 +228,24 @@ O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi rea
 
 Faça aqui uma breve descrição do software e coloque as principais telas com uma explicação de como usar cada uma.
 
+Neste projeto, foi desenvolvido um software com foco na modelagem e otimização de processos de negócios em uma empresa farmacêutica. Foram elaboradas soluções coletivas para garantir a eficácia e operacionalidade do setor farmacêutico em geral, considerando os dados do Conselho Federal de Farmácia do Brasil. O software foi desenvolvido utilizando a ferramenta SYDLE ONE para digitalização e automação dos processos de negócios, com ênfase em três processos principais: cadastro de clientes, cadastro de produtos e processo de vendas.
+
+Durante o desenvolvimento, todas as etapas dos processos de negócios foram consideradas, visando direcionar recursos organizacionais para metas específicas e maximizar o retorno esperado. No entanto, devido à diversidade de empresas no setor farmacêutico, a modelagem específica de casos individuais não foi abordada no projeto.
+
+A equipe adquiriu experiência em boas práticas de design de banco de dados, planejamento de futuras entregas e seleção do tipo de banco de dados a ser adotado. A metodologia ágil Kanban foi utilizada para gerenciar o projeto, proporcionando orientação e foco nos objetivos de cada entrega.
+
+Durante o projeto, foi observado que a ferramenta SYDLE ONE apresentou algumas limitações, o que levou à consideração de uma ferramenta mais estabelecida no mercado para um projeto futuro com um cliente externo, que ofereça uma documentação clara e uma curva de aprendizado mais suave.
+
+Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria contínua nas entregas, contribuindo para a otimização do setor farmacêutico como um todo. O software desenvolvido atende às melhorias processuais planejadas em grupo e tem como objetivo melhorar a eficiência dos processos de negócios em uma instituição farmacêutica.
+
+## 7.1. Principais telas dos processos criados
+
+1°  Cadastro de clientes:
+*A tela abaixo refere-se a interface inicial a ser navegada para seleção da opção cadastrar cliente.
+
+(![interfaceCadastrarCliente](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/assets/108244246/5e35478e-4663-42d4-a864-09ef48535515)
+")
+
 ## 8. Conclusão
 
 &nbsp;&nbsp;&nbsp;&nbsp;Na construção deste projeto foi realizado a modelagem de processos de negócio de uma farmácia, no qual foi elaborado em grupo propostas de soluções que buscaram assegurar a eficiência e funcionalidade de uma empresa farmacêutica. A proposta foi desenvolvida levando em conta todos os elementos-chave dos processos de negócios, com foco em maximizar o retorno esperado. A modelagem de processos de negócios visa inicialmente o mapeamento do processo existente no qual a empresa esteja trabalhando (processo AS-IS), durante essa fase o mapeamento apresentou o estado atual do processo que estava suportando a empresa e foi percebido diversos pontos de melhorias que poderiam contribuir para o ganho de eficiência no negócio que foi objeto de estudo. 
