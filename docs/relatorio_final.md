@@ -291,6 +291,7 @@ Processos:
 | Venda Selecionada | Seleção única |  |  |
 | Confirma o cancelamento da venda? | Booleano |  |  |
 
+
 ### 4.2. Tecnologias
 
 O projeto foi desenvolvido com o uso da ferramenta **SYDLE ONE** no qual foi realizado o mapeamento de processos e a automação.
