@@ -145,25 +145,69 @@ Processos:
 
 ### 4.1. Detalhamento das atividades
 
-Descrever aqui cada uma das propriedades das atividades de cada um dos processos. Devem estar relacionadas com o modelo de processo apresentado anteriormente.
-
 #### Processo 1 – PROCESSO DE CADASTRO DE CLIENTES
 
-**Nome da atividade 1**
+**Verificar a disponibilidade do produto**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
-| ***Exemplo:***  |    |     |
-| login | Caixa de Texto | formato de e-mail |  |
-| senha | Caixa de Texto | mínimo de 8 caracteres |   |
+| Listagem Produto | Tabela |  |  |
+| O que você deseja? | Seleção única |  |  |
+| Cliente selecionado | Seleção única |  |  |
+| Produto selecionado | Seleção única |  |  |
+| Quantidade de produtos | Caixa de texto |  |  |
+| Venda Selecionada | Seleção única |  |  |
 
-**Nome da atividade 2**
+**Realizar pagamento**
 
 | **Campo** | **Tipo** | **Restrições** | **Valor default** |
 | --- | --- | --- | --- |
-| [Nome do campo] | [Área de texto, Caixa de texto, Número, Data, Imagem, Seleção única, Múltipla escolha, Arquivo, Link, Tabela] |  |  |
+| Tipo Pagamento | Seleção única |  |  |
 |    |    |     |
+
+**Pagar no PIX**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Produto Selecionado | Área de texto |  |  |
+| Tipo Pagamento | Área de texto |  |  |
+| Confirmar Compra | Booleano |  |  |
+|    |    |     |
+
+**Pagar no Cartão de crédito**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Produto Selecionado | Área de texto |  |  |
+| Tipo Pagamento | Área de texto |  |  |
+| Confirmar Compra | Booleano |  |  |
+|    |    |     |
+
+**Pagar em dinheiro**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Produto Selecionado | Área de texto |  |  |
+| Tipo Pagamento | Área de texto |  |  |
+| Confirmar Compra | Booleano |  |  |
+|    |    |     |
+
+**Editar venda**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Cliente | Seleção única |  |  |
+| Produto | Seleção única |  |  |
+| Quantidade | Número |  |  |
+| Valor | Decimal |  |  |
+| Tipo de pagamento | Seleção única |  |  |
+
+**Cancelar venda**
+
+| **Campo** | **Tipo** | **Restrições** | **Valor default** |
+| --- | --- | --- | --- |
+| Venda Selecionada | Seleção única |  |  |
+| Confirma o cancelamento da venda? | Booleano |  |  |
 
 #### Processo 2 – PROCESSO DE CADASTRO DE PRODUTOS
 
