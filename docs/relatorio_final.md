@@ -475,7 +475,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 **Código:** https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/tree/master/src
 
-**Artefatos:** (armazenado do repositório);
+**Artefatos:** https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/tree/master/assets
 
 **Apresentação final:** https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/blob/master/docs/Projeto_Farm%C3%A1cia_Apresenta%C3%A7%C3%A3o.pdf
 
