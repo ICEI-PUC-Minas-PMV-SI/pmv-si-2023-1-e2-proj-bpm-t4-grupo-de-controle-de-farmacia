@@ -477,7 +477,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 **Artefatos:** (armazenado do repositório);
 
-**Apresentação final:** (armazenado no repositório);
+**Apresentação final:** https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/blob/master/docs/Projeto_Farm%C3%A1cia_Apresenta%C3%A7%C3%A3o.pdf
 
 **Vídeo de apresentação:** (armazenado no repositório).
 
