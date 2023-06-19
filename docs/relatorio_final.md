@@ -473,7 +473,7 @@ Ao final do projeto, todos os requisitos foram atendidos e houve uma melhoria co
 
 # APÊNDICES
 
-**Código:** (armazenado no repositório);
+**Código:** https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-1-e2-proj-bpm-t4-grupo-de-controle-de-farmacia/tree/master/src
 
 **Artefatos:** (armazenado do repositório);
 
